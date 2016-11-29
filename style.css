@@ -10,7 +10,6 @@ body {
 .nav {
     width: 300px;
     height: 100%;
-    overflow: scroll;
     background-color: rgba(63,63,63, 0.5);
     position: fixed;
     top: 0;
